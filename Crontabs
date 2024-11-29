@@ -1,0 +1,37 @@
+Open de terminal en ga naar de locatie van je script.
+cd /pad/naar/je/script
+
+Maak het script uitvoerbaar:
+chmod +x scriptnaam.sh
+
+Open de crontab-editor:
+crontab -e
+
+Voeg de volgende regel toe aan de crontab om je script dagelijks om bijvoorbeeld 12:00 uur uit te voeren:
+0 12 * * * /pad/naar/je/script/scriptnaam.sh
+
+Hier staat:
+
+0 voor de minuten (op de 0e minuut).
+12 voor het uur (12:00).
+* voor elke dag van de maand.
+* voor elke maand.
+* voor elke dag van de week.
+Sla de wijzigingen op en sluit de editor. (In nano, doe je dit met Ctrl+O, gevolgd door Enter, en dan Ctrl+X.)
+
+
+Je kunt de huidige cron-taken bekijken met:
+crontab -l
+
+Als je wilt dat de output van je script wordt gelogd, kun je de cronregel aanpassen om de uitvoer naar een bestand te sturen:
+0 12 * * * /pad/naar/je/script/scriptnaam.sh >> /pad/naar/logbestand.log 2>&1
+
+>> /pad/naar/logbestand.log stuurt normale uitvoer naar het logbestand.
+2>&1 stuurt foutmeldingen naar hetzelfde logbestand.
+
+Om te zorgen dat cron actief is:
+sudo systemctl status cron
+
+Als de service niet draait, kun je deze starten met:
+sudo systemctl start cron
+
