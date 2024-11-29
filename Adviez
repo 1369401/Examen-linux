@@ -1,0 +1,85 @@
+### **Inleiding**
+
+In een tijdperk waarin data een cruciale rol speelt in zowel persoonlijke als zakelijke activiteiten, is de keuze tussen lokale opslag en cloudopslag belangrijker dan ooit. Dit verslag biedt een overzicht van beide opties en vergelijkt ze op basis van toegankelijkheid, veiligheid, functionaliteit en kosten. Op basis van deze factoren wordt een advies gegeven welke opslagmethode het meest geschikt is in verschillende situaties.
+
+---
+
+### **1. Wat is lokaal en via de cloud opslaan?**
+
+- **Lokaal opslaan:**  
+Bij lokale opslag wordt data bewaard op fysieke apparaten, zoals harde schijven, SSD's, USB-sticks of servers die binnen het bedrijf of de woning van de gebruiker staan. De gebruiker is volledig verantwoordelijk voor het beheer en onderhoud van deze opslagmiddelen.
+
+- **Cloudopslag:**  
+Cloudopslag verwijst naar het opslaan van data op externe servers die worden beheerd door een externe aanbieder, zoals Google Drive, Microsoft OneDrive of Amazon Web Services (AWS). De gebruiker heeft via internet toegang tot deze data, waarbij de verantwoordelijkheid voor onderhoud en beveiliging grotendeels bij de aanbieder ligt.
+
+---
+
+### **2. Toegankelijkheid**
+
+- **Lokaal opslaan:**  
+  - **Voordelen:** Data is direct toegankelijk zonder afhankelijkheid van een internetverbinding. Snelheid wordt bepaald door de hardware en is niet beperkt door de internetsnelheid.  
+  - **Nadelen:** Beperkt tot de locatie van het opslagapparaat, tenzij extra configuraties worden gebruikt zoals een NAS (Network Attached Storage).
+
+- **Cloudopslag:**  
+  - **Voordelen:** Data is toegankelijk vanaf elk apparaat met een internetverbinding, ongeacht de locatie. Het biedt uitstekende ondersteuning voor samenwerken op afstand.  
+  - **Nadelen:** Toegang is afhankelijk van een stabiele internetverbinding. Slechte of ontbrekende verbinding kan de toegankelijkheid beperken.
+
+---
+
+### **3. Veiligheid**
+
+- **Lokaal opslaan:**  
+  - **Voordelen:** De gebruiker heeft volledige controle over de fysieke beveiliging en datatoegang. Er zijn geen externe partijen betrokken, wat de kans op datalekken door derden vermindert.  
+  - **Nadelen:** Het risico van fysieke schade, zoals brand, diefstal of hardwarestoringen, ligt volledig bij de gebruiker. Beveiliging tegen cyberdreigingen, zoals ransomware, vereist eigen expertise.
+
+- **Cloudopslag:**  
+  - **Voordelen:** Cloudproviders investeren zwaar in beveiliging, inclusief encryptie, back-ups en bescherming tegen cyberdreigingen. Gegevens zijn doorgaans beter beschermd tegen fysieke schade.  
+  - **Nadelen:** Data is toegankelijk voor de cloudprovider, wat privacyrisicoâs kan opleveren. Bovendien zijn grote cloudproviders aantrekkelijke doelwitten voor hackers.
+
+---
+
+### **4. Functionaliteit**
+
+- **Lokaal opslaan:**  
+  - **Voordelen:** Geschikt voor situaties waar hoge snelheid en directe toegang vereist zijn, zoals het werken met grote mediabestanden. Lokaal kan ook aangepast worden aan specifieke behoeften zonder afhankelijkheid van standaardoplossingen.  
+  - **Nadelen:** Beperkte schaalbaarheid. Het upgraden van opslagcapaciteit kan kostbaar en tijdrovend zijn.
+
+- **Cloudopslag:**  
+  - **Voordelen:** Biedt schaalbaarheid: capaciteit kan eenvoudig worden uitgebreid. Veel diensten hebben ingebouwde functionaliteiten zoals synchronisatie, versiebeheer en samenwerkingstools.  
+  - **Nadelen:** Gebruikers zijn afhankelijk van het platform van de provider, en overstappen naar een andere aanbieder kan complex zijn.
+
+---
+
+### **5. Prijzen**
+
+- **Lokaal opslaan:**  
+  - **Kosten:** Initieel kunnen de kosten hoog zijn door de aanschaf van hardware. Operationele kosten, zoals onderhoud en energie, komen daar bovenop. Op lange termijn kunnen de kosten relatief stabiel blijven, afhankelijk van de hardwarevervanging.  
+  - **Voorbeeld:** Een externe harde schijf van 1 TB kost ongeveer â¬50-â¬100, exclusief eventuele IT-support.
+
+- **Cloudopslag:**  
+  - **Kosten:** Gebaseerd op abonnementen of pay-per-use. Hoewel er geen hoge initiÃ«le kosten zijn, kunnen maandelijkse kosten op de lange termijn oplopen. Aanbieders bieden vaak gratis opslag tot een bepaalde limiet.  
+  - **Voorbeeld:** Google Drive biedt 15 GB gratis, terwijl 2 TB opslag ongeveer â¬9,99 per maand kost.
+
+---
+
+### **Advies**
+
+De keuze tussen lokaal en cloudopslag hangt af van de specifieke behoeften van de gebruiker:
+
+- **Kies lokaal opslaan als:**
+  - U directe controle over uw data belangrijk vindt.
+  - U geen stabiele of snelle internetverbinding hebt.
+  - Uw werk veel grote bestanden vereist die snel toegankelijk moeten zijn.
+
+- **Kies cloudopslag als:**
+  - U behoefte hebt aan flexibele, schaalbare opslag.
+  - U vaak op meerdere apparaten werkt en vanaf verschillende locaties toegang nodig hebt.
+  - Samenwerking en databeveiliging (via externe expertise) een prioriteit zijn.
+
+Voor de meeste moderne toepassingen, vooral in samenwerking en remote werk, is cloudopslag aan te raden. Echter, voor privacygevoelige projecten of omgevingen met weinig internettoegang blijft lokale opslag een solide keuze.
+
+--- 
+
+**Conclusie**
+
+Zowel lokale opslag als cloudopslag heeft unieke voordelen en nadelen. Een hybride oplossing, waarbij gevo
